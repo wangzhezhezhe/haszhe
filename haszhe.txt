@@ -1,0 +1,1 @@
+function handsome(name:string){console.log(10)}
